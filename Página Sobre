@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre</title>
+    <link href="/style.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="center">
+            <div class="logo"><img src="/img/Logo-Super-Mario-World-Png.png"/></div>
+            <div class="menu">
+                <a href="/index.html">Home</a>
+                <a href="/personagens.html">Personagens</a>
+                <a href="/facaparte.html">Faça Parte</a>
+            </div>
+        </div>
+    </header>
+    <section class="sobre">
+        <div class="extras1">
+            <img src="/img/Evolucao-do-Mario-GEEKNESS-03.jpg"/>
+        </div>
+        <div class="center">
+        <div class="sobre-texto">
+            <h2><span style="color: red;">A Evolução de Mario Bros: </span></br>Uma Jornada Desde sua Criação até os Dias Atuais.</h2>
+            <p1>Há mais de três décadas, um encanador bigodudo entrou em nossos corações e se tornou um ícone eterno da cultura pop: Mario Bros. 
+            Criado pelo lendário Shigeru Miyamoto, Mario fez sua estreia no jogo "Donkey Kong" de 1981, originalmente como "Jumpman". 
+            Porém, foi em 1985 que Mario recebeu seu próprio jogo, "Super Mario Bros", para o Nintendo Entertainment System (NES), 
+            catapultando-o para a fama mundial.</p1>
+
+            <p1>Desde então, Mario tem sido o rosto da Nintendo e um dos personagens mais reconhecíveis da história dos videogames. 
+            Sua jornada o levou a explorar uma miríade de mundos coloridos, desde o Reino dos Cogumelos até o espaço sideral, 
+            enfrentando incontáveis desafios e vilões pelo caminho. Ao lado de seu irmão Luigi, a Princesa Peach e outros amigos, 
+            Mario defendeu o Reino dos Cogumelos das garras do terrível Bowser inúmeras vezes.</p1>
+        
+            <p1>Ao longo das décadas, a franquia Mario Bros expandiu-se para além dos jogos de plataforma, abraçando gêneros como corrida, 
+            esportes, quebra-cabeças e até mesmo RPGs. Títulos inovadores como "Super Mario 64", lançado em 1996 para o Nintendo 64, 
+            revolucionaram a indústria dos videogames, introduzindo gráficos 3D e mecânicas de jogo inovadoras.</p1>
+        
+            <p1>A influência de Mario Bros vai muito além dos videogames. O personagem inspirou programas de TV, filmes, produtos licenciados 
+            e até mesmo parques temáticos. Sua marca é sinônimo de qualidade, diversão e nostalgia para milhões de fãs em todo o mundo.</p1>
+        
+            <p1>Hoje, Mario continua tão relevante e amado como sempre. Com lançamentos recentes como "Super Mario Odyssey" para o 
+            Nintendo Switch, a franquia continua a evoluir, mantendo-se fiel às suas raízes enquanto abraça novas tecnologias e ideias. 
+            Com o legado de Mario Bros, é seguro dizer que o encanador bigodudo continuará a encantar e inspirar gerações de jogadores 
+            por muitos anos vindouros. </p1>
+        </div>
+  </div>
+</section>
+
+</body>
+</html>
