@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="/style.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="center">
+            <div class="logo"><img src="/img/Logo-Super-Mario-World-Png.png"/></div>
+            <div class="menu">
+                <a href="/sobre.html">Sobre</a>
+                <a href="/personagens.html">Personagens</a>
+                <a href="/facaparte.html">Faça Parte</a>
+            </div>
+        </div>
+    </header>
+    <section class="sobre">
+        <div class="extras">
+            <img src="/img/Super-Mario-Personagens-Super-Mario-PNG-02.jpg"/>
+        </div>
+        <div class="center">
+            <div class="sobre-texto">
+                <h1>Seja Bem-vindo!</br> Ao Mundo Encantado do <span style="color: red;">Mario Bros!</span></h1>
+                <p>Entre no universo mágico do Mario Bros, onde aventuras emocionantes aguardam em cada esquina. 
+                   Junte-se a Mario e sua turma enquanto pulam sobre plataformas, coletam moedas e enfrentam vilões icônicos como Bowser. 
+                   Com jogabilidade cativante, gráficos vibrantes e uma trilha sonora marcante, os jogos do Mario Bros oferecem diversão 
+                   para todas as idades. Explore uma variedade de títulos, desde os clássicos até spin-offs inovadores, e mergulhe em um 
+                   mundo onde a diversão nunca tem fim.</p>
+                <button href="/sobre.html">Saiba Mais</button>   
+        </div>
+
+    </section>
+</body>
+</html>
