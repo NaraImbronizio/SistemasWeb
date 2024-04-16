@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personagens</title>
+    <link href="/style.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="center">
+            <div class="logo"><img src="/img/Logo-Super-Mario-World-Png.png"/></div>
+            <div class="menu">
+                <a href="/index.html">Home</a>
+                <a href="/sobre.html">Sobre</a>
+                <a href="/facaparte.html">Faça Parte</a>
+            </div>
+        </div>
+    </header>
+    <section class="personagens">
+        <div class="center">
+          <div class="personagens-texto">
+            <h1>Conheça os Heróis e Vilões do Mundo Mario Bros.</h1>
+            <h3>Mario: O Herói Destemido do Reino dos Cogumelos</h3>
+               <p>Mario, o encanador bigodudo de boné vermelho, é o herói inabalável do Reino dos Cogumelos. 
+               Conhecido por sua coragem e determinação, Mario enfrenta desafios inimagináveis para salvar a 
+               Princesa Peach das garras do maligno Bowser. Com sua habilidade de saltar sobre plataformas e esmagar inimigos, 
+               Mario personifica a bravura e a perseverança, tornando-se um símbolo de esperança para todos os habitantes do reino.</p>
+            <h3>Luigi: O Irmão Leal e Corajoso de Mario</h3>
+                <p>Luigi, o irmão de Mario, é conhecido por sua natureza gentil e leal. Apesar de muitas vezes viver à sombra de Mario, 
+                Luigi é um herói por direito próprio, pronto para enfrentar perigos ao lado de seu irmão. Com seu caráter compassivo e 
+                sua disposição para ajudar os outros, Luigi é uma parte essencial da equipe e um amigo confiável em momentos de necessidade.</p>
+            <h3>Princesa Peach: A Elegância Real e a Determinação Infinita</h3>
+                <p>A graciosa Princesa Peach é a governante benevolente do Reino dos Cogumelos e uma figura central nos contos de Mario.
+                   Embora frequentemente se encontre em perigo nas mãos de Bowser, Peach é tudo menos uma donzela em apuros. 
+                   Com sua inteligência, determinação e habilidades surpreendentes, ela demonstra repetidamente sua capacidade de 
+                   resistir e até mesmo ajudar a salvar o dia.</p>
+            <h3>Toad: O Amigo Fiel e Protetor do Reino</h3>
+                <p>Toad, o fungo amigável e fiel do Reino dos Cogumelos, é um aliado inestimável de Mario e seus amigos. 
+                    Com sua lealdade inabalável e disposição para ajudar, Toad é muitas vezes o primeiro a vir em socorro da 
+                    Princesa Peach e a fornecer informações vitais para a jornada de Mario. Apesar de sua aparência pequena, 
+                    Toad é um gigante em coração e coragem.</p>
+            <h3>Yoshi: O Companheiro de Confiança e Montaria Leal</h3>
+                <p>Yoshi, o adorável dinossauro verde, é um parceiro de confiança em muitas aventuras de Mario. Conhecido por sua 
+                    habilidade de engolir inimigos e lançar ovos, Yoshi é uma força poderosa para o bem. Sua lealdade a Mario é 
+                    inquebrável, e sua disposição para ajudar em qualquer situação faz dele um dos aliados mais valorizados no 
+                    Reino dos Cogumelos.</p>
+            <h3>Bowser: O Vilão Impiedoso Determinado a Dominar o Reino</h3>
+                <p>Bowser, o rei dos Koopas, é o antagonista supremo da saga de Mario. Com sua astúcia e força formidáveis, 
+                    Bowser está constantemente tramando maneiras de capturar a Princesa Peach e conquistar o Reino dos Cogumelos. 
+                    Apesar de sua natureza vil e implacável, Bowser é muitas vezes retratado com nuances, 
+                    mostrando um lado mais humano em suas interações com Mario e sua turma.
+                </p>
+          </div>
+        </div>
+      </section>
+</body>
+</html>
